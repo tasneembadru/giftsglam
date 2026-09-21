@@ -421,14 +421,14 @@ export default function HomePage() {
             <div className="grid grid-cols-3 gap-6 pt-8">
 
               <div>
-                <h3 className="text-3xl font-bold text-[#D4AF37]">200+</h3>
+                <h3 className="text-3xl font-bold text-[#D4AF37]">G</h3>
                 <p className="mt-2 text-xs uppercase tracking-[2px] text-gray-500">
                   Space Styling
                 </p>
               </div>
 
               <div>
-                <h3 className="text-3xl font-bold text-[#D4AF37]">100+</h3>
+                <h3 className="text-3xl font-bold text-[#D4AF37]">G</h3>
                 <p className="mt-2 text-xs uppercase tracking-[2px] text-gray-500">
                   Event Decor
                 </p>
@@ -531,7 +531,7 @@ export default function HomePage() {
               {[
                 "Luxury Home Styling",
                 "Elegant Floral Arrangements",
-                "Wedding & Event Decoration",
+                "Event Decoration",
                 "Personalized Gift Collections",
               ].map((item) => (
                 <div
@@ -834,7 +834,7 @@ export default function HomePage() {
                 image: "/images/services/service2.jpg",
               },
               {
-                title: "Wedding & Event Decoration",
+                title: "Event Decoration",
                 image: "/images/services/service3.jpg",
               },
               {

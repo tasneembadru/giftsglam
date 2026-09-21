@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     "Interior Designer Burundi",
     "Luxury Home Decoration",
     "Gift Hampers Burundi",
-    "Wedding Decoration Burundi",
+    "Event Decoration Burundi",
     "Living Room Decoration",
     "Bedroom Styling",
     "Office Decoration",
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "GiftsGlam | Luxury Home Decoration",
     description:
-      "Elegant home décor, weddings, floral styling and luxury interior decoration.",
+      "Elegant home décor, events, floral styling and luxury interior decoration.",
     url: "https://giftsglam.vercel.app",
     siteName: "GiftsGlam",
     images: [

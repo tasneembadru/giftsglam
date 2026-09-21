@@ -40,11 +40,11 @@ export default function ProjectsPage() {
       "Professional office styling with modern décor and elegant furniture.",
   },
   {
-    title: "Wedding Decoration",
+    title: "Event Decoration",
     category: "Events",
-    image: "/images/projects/wedding.jpg",
+    image: "/images/projects/Event.jpg",
     description:
-      "Complete wedding decoration with luxury floral arrangements and glamorous styling.",
+      "Complete Event decoration with luxury floral arrangements and glamorous styling.",
   },
   {
     title: "Luxury Floral Corner",
@@ -205,7 +205,7 @@ export default function ProjectsPage() {
         { image: "/images/gallery/gallery5.jpg", title: "Luxury Floral Corner" },
         { image: "/images/gallery/gallery6.jpg", title: "Minimalist Office" },
         { image: "/images/gallery/gallery7.jpg", title: "Coffee Table Styling" },
-        { image: "/images/gallery/gallery8.jpg", title: "Wedding Decor" },
+        { image: "/images/gallery/gallery8.jpg", title: "Event Decor" },
         { image: "/images/gallery/gallery9.jpg", title: "Luxury Curtains" },
         { image: "/images/gallery/gallery10.jpg", title: "Console Table Decor" },
         { image: "/images/gallery/gallery11.jpg", title: "Luxury Lighting" },
