@@ -68,40 +68,40 @@ export default function HomePage() {
       title: "Luxury Living Room Transformation",
       category: "Living Room",
       description: "Beautifully transformed space.",
-      before: "/images/trasnformatbefore.jpg",
-      after: "/images/before-after/living-after.jpg",
+      before: "/images/transformations/before1.jpg",
+      after: "/images/transformations/after1.jpg",
     },
     {
       title: "Elegant Bedroom Transformation",
       category: "Bedroom",
       description: "A refined and elegant transformation.",
-      before: "/images/before-after/bedroom-before.jpg",
-      after: "/images/before-after/bedroom-after.jpg",
+      before: "/images/transformations/before2.jpg",
+      after: "/images/transformations/after2.jpg",
     },
     {
       title: "Modern Dining Transformation",
       category: "Dining",
       description: "A sophisticated dining experience.",
-      before: "/images/before-after/dining-before.jpg",
-      after: "/images/before-after/dining-after.jpg",
+      before: "/images/transformations/before3.jpg",
+      after: "/images/transformations/after3.jpg",
     },
   ];
 
   const testimonials = [
     {
-      name: "Happy Client",
+      name: "Client",
       location: "Bujumbura",
       message: "Beautiful work and attention to detail.",
       image: "/images/testimonials/client1.jpg",
     },
     {
-      name: "Happy Client",
+      name: "Client",
       location: "Burundi",
       message: "The transformation was absolutely beautiful.",
       image: "/images/testimonials/client2.jpg",
     },
     {
-      name: "Happy Client",
+      name: "Client",
       location: "Bujumbura",
       message: "Professional, elegant and beautifully executed.",
       image: "/images/testimonials/client3.jpg",
@@ -995,7 +995,7 @@ export default function HomePage() {
 
           <div className="mb-16 text-center">
             <span className="rounded-full bg-[#F5E8BE] px-5 py-2 text-xs font-semibold uppercase tracking-[3px] text-[#8A6A14]">
-              Happy Clients
+             Satisfied  Clients
             </span>
 
             <h2 className="mt-6 font-serif text-5xl font-bold text-[#1A1A1A]">
