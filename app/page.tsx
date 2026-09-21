@@ -68,7 +68,7 @@ export default function HomePage() {
       title: "Luxury Living Room Transformation",
       category: "Living Room",
       description: "Beautifully transformed space.",
-      before: "/images/before-after/living-before.jpg",
+      before: "/images/trasnformatbefore.jpg",
       after: "/images/before-after/living-after.jpg",
     },
     {
@@ -92,19 +92,19 @@ export default function HomePage() {
       name: "Happy Client",
       location: "Bujumbura",
       message: "Beautiful work and attention to detail.",
-      image: "/images/avatar.jpg",
+      image: "/images/testimonials/client1.jpg",
     },
     {
       name: "Happy Client",
       location: "Burundi",
       message: "The transformation was absolutely beautiful.",
-      image: "/images/avatar.jpg",
+      image: "/images/testimonials/client2.jpg",
     },
     {
       name: "Happy Client",
       location: "Bujumbura",
       message: "Professional, elegant and beautifully executed.",
-      image: "/images/avatar.jpg",
+      image: "/images/testimonials/client3.jpg",
     },
   ];
 
@@ -1074,7 +1074,7 @@ export default function HomePage() {
             </h2>
 
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Replace this text with your own.
+              Contact us now
             </p>
 
             {/* Contact Cards */}

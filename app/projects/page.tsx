@@ -87,7 +87,7 @@ export default function ProjectsPage() {
           </p>
 
           <h1 className="mb-8 text-6xl font-bold leading-tight">
-            Luxury Spaces We've Created
+            Luxury Spaces 
           </h1>
 
           <p className="text-lg leading-8 text-gray-100">
