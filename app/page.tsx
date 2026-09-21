@@ -378,7 +378,7 @@ export default function HomePage() {
             <div className="inline-flex items-center gap-2 rounded-full border border-[#D4AF37]/30 bg-white/80 px-5 py-2 backdrop-blur-sm">
               <Sparkles size={15} className="text-[#D4AF37]" />
               <span className="text-sm font-medium text-[#8A6A14]">
-                Luxury Home Styling • Floral Design • Elegant Gifts
+                Luxury Styling • Floral Design • Elegant Gifts
               </span>
             </div>
 
@@ -402,7 +402,7 @@ export default function HomePage() {
                 }
                 className="rounded-full bg-gradient-to-r from-[#8A6A14] via-[#D4AF37] to-[#F2D675] px-8 py-4 font-semibold text-black shadow-xl transition-all duration-500 hover:-translate-y-1 hover:shadow-[0_20px_40px_rgba(212,175,55,0.35)]"
               >
-                Explore Collection
+                Explore Inspo Collection
               </button>
 
               <a
@@ -423,14 +423,14 @@ export default function HomePage() {
               <div>
                 <h3 className="text-3xl font-bold text-[#D4AF37]">200+</h3>
                 <p className="mt-2 text-xs uppercase tracking-[2px] text-gray-500">
-                  Spaces Styled
+                  Space Styling
                 </p>
               </div>
 
               <div>
                 <h3 className="text-3xl font-bold text-[#D4AF37]">100+</h3>
                 <p className="mt-2 text-xs uppercase tracking-[2px] text-gray-500">
-                  Events Decorated
+                  Event Decor
                 </p>
               </div>
 
@@ -575,7 +575,7 @@ export default function HomePage() {
           {/* Header */}
           <div className="mb-14 text-center">
             <span className="rounded-full bg-[#F5E8BE] px-5 py-2 text-xs font-semibold uppercase tracking-[3px] text-[#8A6A14]">
-              Our Collection
+             Collection
             </span>
 
             <h2 className="mt-6 font-serif text-5xl font-bold text-[#1A1A1A]">
@@ -1231,9 +1231,10 @@ export default function HomePage() {
                 <option value="">Select a Service</option>
                 <option>Home Décor Styling</option>
                 <option>Luxury Floral Arrangements</option>
-                <option>Wedding Decoration</option>
+                <option>Event Decoration(unavailable)</option>
                 <option>Gift Hampers</option>
                 <option>Office Decoration</option>
+                <option>Other</option>
               </select>
 
               <textarea
@@ -1424,14 +1425,14 @@ export default function HomePage() {
                   onClick={() => document.getElementById("about")?.scrollIntoView({ behavior: "smooth" })}
                   className="transition hover:text-[#D4AF37]"
                 >
-                  Privacy
+                  Home
                 </button>
 
                 <button
                   onClick={() => document.getElementById("about")?.scrollIntoView({ behavior: "smooth" })}
                   className="transition hover:text-[#D4AF37]"
                 >
-                  Terms
+                  Back
                 </button>
               </div>
 

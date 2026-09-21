@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 import { supabase } from "@/lib/supabase";
 import { ArrowRight, MessageCircle } from "lucide-react";
 import BeforeAfterSlider from "@/components/BeforeAfterSlider";
-const whatsappNumber = "257XXXXXXXXX";
+const whatsappNumber = "25768600080";
 
 export default function ProjectsPage() {
   const [projects, setProjects] = useState([
@@ -83,7 +83,7 @@ export default function ProjectsPage() {
 
         <div className="relative z-10 max-w-3xl text-white">
           <p className="mb-4 uppercase tracking-[4px] text-[#F2D27A]">
-            GiftsGlam Portfolio
+            GiftsGlam 
           </p>
 
           <h1 className="mb-8 text-6xl font-bold leading-tight">
@@ -91,7 +91,7 @@ export default function ProjectsPage() {
           </h1>
 
           <p className="text-lg leading-8 text-gray-100">
-            Explore some of our favorite transformations across homes, offices,
+            Imagin transformations across homes, offices,
             events and floral styling.
           </p>
         </div>
@@ -186,11 +186,11 @@ export default function ProjectsPage() {
       </p>
 
       <h2 className="mt-4 text-5xl font-bold">
-        Pinterest Style Gallery
+        Inspo Gallery
       </h2>
 
       <p className="mx-auto mt-5 max-w-3xl text-lg leading-8 text-gray-600">
-        Browse elegant spaces we've styled across living rooms, bedrooms,
+        Browse ideas of elegant spaces we could style across living rooms, bedrooms,
         dining rooms, offices and luxury events.
       </p>
     </div>
@@ -266,7 +266,7 @@ export default function ProjectsPage() {
       </h2>
 
       <p className="mx-auto mt-5 max-w-3xl text-lg leading-8 text-gray-600">
-        See the remarkable transformations we've created for homes,
+        See the remarkable transformations we could create for homes,
         offices and luxury spaces.
       </p>
     </div>
