@@ -214,7 +214,7 @@ export default function HomePage() {
               </h1>
 
               <p className="text-[10px] uppercase tracking-[4px] text-gray-300">
-                Luxury Home Décor
+                Luxury Décor
               </p>
             </div>
           </div>
@@ -261,7 +261,7 @@ export default function HomePage() {
             </a>
 
             <a
-              href="https://instagram.com/giftsglam"
+              href="https://instagram.com/giftsglam_store"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white transition-all duration-300 hover:scale-110 hover:text-pink-500"
@@ -1102,7 +1102,7 @@ export default function HomePage() {
               </a>
 
               <a
-                href="https://instagram.com/giftsglam"
+                href="https://instagram.com/giftsglam_store"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-5 rounded-[28px] bg-white p-5 shadow-md transition-all duration-300 hover:-translate-y-1 hover:shadow-xl"
@@ -1117,7 +1117,7 @@ export default function HomePage() {
                   </p>
 
                   <h4 className="font-semibold text-[#1A1A1A]">
-                    @giftsglam
+                    @giftsglam_store
                   </h4>
                 </div>
               </a>
@@ -1295,7 +1295,7 @@ export default function HomePage() {
                 </a>
 
                 <a
-                  href="https://instagram.com/giftsglam"
+                  href="https://instagram.com/giftsglam_store"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex h-11 w-11 items-center justify-center rounded-full bg-gradient-to-br from-pink-500 via-red-500 to-yellow-500 transition hover:scale-110"
@@ -1374,7 +1374,7 @@ export default function HomePage() {
               <div className="space-y-3 text-gray-400">
                 <p>Home Décor Styling</p>
                 <p>Luxury Floral Arrangements</p>
-                <p>Wedding Decoration</p>
+                <p>Event Decoration</p>
                 <p>Office Decoration</p>
                 <p>Gift Hampers</p>
               </div>
@@ -1395,7 +1395,7 @@ export default function HomePage() {
 
                 <div className="flex items-center gap-3">
                   <FaInstagram className="text-pink-500" />
-                  <span>@giftsglam</span>
+                  <span>@giftsglam_store</span>
                 </div>
 
                 <div className="flex items-center gap-3">
